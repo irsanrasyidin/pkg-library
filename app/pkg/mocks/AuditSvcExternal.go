@@ -5,8 +5,8 @@ package mocks
 import (
 	context "context"
 
-	exception "github.com/RumbiaID/pkg-library/app/pkg/exception"
-	external "github.com/RumbiaID/pkg-library/app/pkg/external"
+	exception "github.com/irsanrasyidin/pkg-library/app/pkg/exception"
+	external "github.com/irsanrasyidin/pkg-library/app/pkg/external"
 
 	mock "github.com/stretchr/testify/mock"
 )
