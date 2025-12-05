@@ -1,4 +1,4 @@
-module github.com/RumbiaID/pkg-library
+module github.com/irsanrasyidin/pkg-library
 
 go 1.22
 
